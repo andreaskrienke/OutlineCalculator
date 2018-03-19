@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Outline Calculator</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_legend">Legend Size</string>
+    <string name="btn_area">Area</string>
+    <string name="txt_legend">Legend Size</string>
+    <string name="txt_area">Area</string>
+    <string name="btn_rotate">Rotate</string>
+    <string name="btn_clip">Clipping</string>
+</resources>
